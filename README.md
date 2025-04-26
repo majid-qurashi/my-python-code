@@ -14,6 +14,15 @@
 
 ---
 
+
+## 🏫 Institute 
+- **Institute:** 🎓  Goverment College of Engineering and Technology Kashmir
+
+## 🏢 Department
+- **Department:** 📖 Computer Science & Engineering
+
+---
+
 ## 📂 Contents
 - 📜 `calculator.py`
 - 📖 `dict.py`

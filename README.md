@@ -1,42 +1,35 @@
-# Python Lab
+# 🌈 Python Lab
 
-**Course:** Python Programing
+**Course:** 🐍 Python Programming
 
-**Lab no.** Lab 2
+**Lab No.:** 🧪 Lab 2
 
-**Semester:** 5Th Sem
+**Semester:** 📚 5th Sem
 
-**Faculty I/c:** Mushtaq Ahmad Dar
+**Faculty I/c:** 👨‍🏫 Mushtaq Ahmad Dar
 
-**Lab work by:** Majid Yaseen Qurashi
+**Lab Work By:** 👨‍🎓 Majid Yaseen Qurashi
 
-**Roll no:** 220365
-
-
----
-
-## Contents
-- calculator.py
-- dict.py
-- even-odd.py
-- lists.py
-- shift.py
-- tuple.py
-- type-con.py
+**Roll No:** 🎟️ 220365
 
 ---
 
-## How to run
-
-1. Open any '.py' file in your code editor.
-2. Make sure python is installed
-3. Run the program using:
-
-python filename.py
+## 📂 Contents
+- 📜 `calculator.py`
+- 📖 `dict.py`
+- 🎲 `even-odd.py`
+- 📋 `lists.py`
+- 🔄 `shift.py`
+- 📦 `tuple.py`
+- 🔄 `type-con.py`
 
 ---
-## Fuuny Quote about me
-- I am not lazy. I am just on my energy saving mode.
 
+## 🚀 How to Run
 
+1. Open any `.py` file in your favorite code editor.
+2. Ensure Python is installed on your system.
+3. Run the program using the command:
 
+   ```bash
+   python filename.py

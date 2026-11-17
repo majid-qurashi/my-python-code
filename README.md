@@ -2,9 +2,9 @@
 
 **Course:** 🐍 Python Programming
 
-**Lab No.:** 🧪 Lab 2
+**Lab No.:** 🧪 2
 
-**Semester:** 📚 5th Sem
+**Semester:** 📚 5th 
 
 **Faculty I/c:** 👨‍🏫 Mushtaq Ahmad Dar
 
@@ -16,7 +16,7 @@
 
 
 ## 🏫 Institute 
-- **Institute:** 🎓  Goverment College of Engineering and Technology Kashmir
+- **Institute:** 🎓  Goverment College of Engineering and Technology Safapora Kashmir
 
 ## 🏢 Department
 - **Department:** 📖 Computer Science & Engineering
